@@ -488,7 +488,7 @@
                 for ( let i = 0; i < cubes.length; i++ ){
                     let update = null;
                     if ( Game.board.current[i] !== null ) {
-                        update = `url(images/${Game.board.current[i]}.svg)`;
+                        update = `url(images/${Game.board.current[i].toLowerCase()}.svg)`;
                     }
                     cubes[i].style.backgroundImage = update;
                 }

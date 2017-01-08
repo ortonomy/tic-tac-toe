@@ -295,7 +295,7 @@ body {
   }
 
   .message {
-    font-size: 3vw;
+    font-size: 2.5vw;
     margin: .5vw;
     padding: 0 .5vw;
   }
@@ -326,20 +326,6 @@ body {
     }
   }
 }
-
-// @keyframes bob {
-//   0% {
-//     transform: translateZ(3.5em);
-//   }
-//
-//   50% {
-//     transform: translateZ(4em);
-//   }
-//
-//   100% {
-//     transform: translateZ(3.5em);
-//   }
-// }
 
 @keyframes shake {
   0% {
