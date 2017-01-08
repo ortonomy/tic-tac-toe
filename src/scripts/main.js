@@ -166,7 +166,7 @@
             prepNewGame: function (nextPlayer) {
                 (document.getElementsByClassName('container'))[0].onclick = () => {
                     Screen.loaders.startNewGame(Game.gameplay.state.humanToken, nextPlayer);
-                    (document.getElementsByTagName('container'))[0].onclick = '';
+                    (document.getElementsByClassName('container'))[0].onclick = '';
                     if (nextPlayer === "H") {
                         Screen.messages.write(["Good luck!"],false);
                     }
