@@ -1,6 +1,9 @@
 # tic-tac-toe
 Browser-based tic-tac-toe game. Play a game of Tic Tac Toe against the computer.
 
+# demo
+Demo app here: [http://ortonomy.github.io/tic-tac-toe](http://ortonomy.github.io/tic-tac-toe) 
+
 # technology
 Built using HTML, SCSS, CSS, vanilla JavaScript and the Materialize libary.
 
@@ -15,7 +18,7 @@ Current functionalities include:
 # future improvements
 Ideas include:
 
-- Include sound-effects on hover, make a move, win or draw states
+- Include sound-effects on hover, make a move, win or draw states. Will use WebAudio API
 - Running stats of CPU wins, draws, and human wins (as if that's possible!)
 - Swap the tokens of the players so whoever goes first is X.
 
