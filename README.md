@@ -26,4 +26,4 @@ Ideas include:
 Things that made this project possible:
 - Original project idea link: https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game
 - Materialize CSS library: http://materializecss.com/
-- Sassy AI inspired by fellow FCC Camper Alex Wilkerson: http://xcvfd.com/tictactoe/ 
+- Sassy AI and Minimax implementation inspired by fellow FCC Camper Alex Wilkerson: http://xcvfd.com/tictactoe/ 
